@@ -46,3 +46,6 @@ Crashlytics/*
 *.log
 *.pyc
 
+# Custom added
+*.xcodeproj
+Configuration
