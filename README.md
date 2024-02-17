@@ -1,5 +1,8 @@
-# Caching network data
+# Earthquakes
 
-## Starting Project
+## Present information about latest earthquakes.
 
-Use this project to code along with [Caching network data](https://developer.apple.com/tutorials/app-dev-training/caching-network-data).
+The following frameworks and libraries were used to develop this project:
+- SwiftUI
+- MapKit
+- WidgetKit (for creating widget extension)
